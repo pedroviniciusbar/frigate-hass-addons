@@ -6,4 +6,4 @@ Frigate brings realtime object detection to any camera video feed supported by f
 - MQTT: Frigate communicates via MQTT
 
 ## Support
-Please [open an issue](https://github.com/blakeblackshear/frigate/issues/new/choose) if you need support.
+Please [open an issue](https://github.com/pedroviniciusbar/frigate/issues/new/choose) if you need support.

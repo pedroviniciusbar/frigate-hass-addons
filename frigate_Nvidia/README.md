@@ -1,6 +1,6 @@
 # Home Assistant Add-on: Frigate NVR (Full Access)
 
-Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
+Please reference the [release notes](https://github.com/pedroviniciusbar/frigate/releases) for breaking changes.
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armv7 Architecture][armv7-shield]
 
@@ -12,7 +12,7 @@ This version of the add-on requests full device access in order to turn off prot
 
 [Documentation](https://docs.frigate.video)
 
-[Frigate]: https://github.com/blakeblackshear/frigate
+[Frigate]: https://github.com/pedroviniciusbar/frigate
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
